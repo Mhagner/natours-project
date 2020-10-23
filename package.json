@@ -1,0 +1,25 @@
+{
+    "name": "natours",
+    "version": "1.0.0",
+    "description": "Lading page for natours",
+    "scripts": {
+        "compile:sass": "node-sass sass/main.scss css/style.css -w"
+    },
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Mhagner/natours-project.git"
+    },
+    "author": "Mahilson",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Mhagner/natours-project/issues"
+    },
+    "homepage": "https://github.com/Mhagner/natours-project#readme",
+    "devDependencies": {
+        "node-sass": "^4.14.1"
+    },
+    "dependencies": {
+        "live-server": "^1.2.1"
+    }
+}
