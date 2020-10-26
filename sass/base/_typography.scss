@@ -7,7 +7,7 @@ body {
     padding: 2rem;
 }
 
-.title {
+.title-1 {
     color: $color-white;
     text-transform: uppercase;
     &--main {
@@ -24,5 +24,35 @@ body {
         letter-spacing: 1.74rem;
         animation: moveInRight 2s ease-out;
         margin-bottom: 6rem;
+    }
+}
+
+.title-2 {
+    font-size: 3.5rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    display: inline-block;
+    background-image: linear-gradient(to right, $color-primary-light, $color-primary-dark);
+    -webkit-background-clip: text; //color a cor dentro do texto
+    color: transparent; //deixa o texto transparente para que a cor fique somente no texto
+    letter-spacing: .2rem;
+    transition: all .2s;
+    &:hover {
+        transform: skewX(2deg) skewX(15deg) scale(1.1);
+        text-shadow: .5rem 1rem 2rem rgba($color-black, .2);
+    }
+}
+
+.title-3 {
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.paragraph {
+    font-size: 1.4rem;
+    font-weight: 700;
+    &:not(:last-child) {
+        margin-bottom: 2rem;
     }
 }

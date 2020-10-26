@@ -1,4 +1,4 @@
-[1010/211917.176:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Administrador\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\2a008731-716d-42f6-8d3e-468b34f74a6e: O sistema não pode encontrar o caminho especificado. (0x3)
-[1010/211917.212:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Administrador\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\2ba5c1e8-d589-4f1b-b9ed-3b2f98ce1e1a: O sistema não pode encontrar o caminho especificado. (0x3)
-[1010/211917.213:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Administrador\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\65a4e436-9986-44bc-89f1-d8c541d1601b: O sistema não pode encontrar o caminho especificado. (0x3)
-[1010/211917.215:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1010/211917.176:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Administrador\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\2a008731-716d-42f6-8d3e-468b34f74a6e: O sistema nï¿½o pode encontrar o caminho especificado. (0x3)
+[1010/211917.212:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Administrador\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\2ba5c1e8-d589-4f1b-b9ed-3b2f98ce1e1a: O sistema nï¿½o pode encontrar o caminho especificado. (0x3)
+[1010/211917.213:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Administrador\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\65a4e436-9986-44bc-89f1-d8c541d1601b: O sistema nï¿½o pode encontrar o caminho especificado. (0x3)
+[1010/211917.215:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema nï¿½o pode encontrar o caminho especificado. (0x3)
