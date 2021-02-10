@@ -6,4 +6,4 @@ Projeto do curso de CSS e SASS avançado Flexbox, Grid, Animações da Udemy. Se
 
 > Site rodando no Netlify:
 
-[Natours Project](https://natours-css-sass.netlify.app/)
+[Visualizar projeto](https://natours-css-sass.netlify.app/)
